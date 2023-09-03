@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vishwesh Bhat</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/vishweshbhat.png" alt="TryHackMe">
+
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishweshbhat&label=Profile%20views&color=0e75b6&style=flat" alt="vishweshbhat" /> </p>
