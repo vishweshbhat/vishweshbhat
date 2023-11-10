@@ -1,4 +1,4 @@
-![logo](https://github.com/vishweshbhat/vishweshbhat/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vishwesh Bhat</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
