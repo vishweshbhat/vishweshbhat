@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Python**
 
-- 📝 I regularly write articles on [https://medium.com/@vishweshbhat18](https://medium.com/@vishweshbhat18)
+- 📝 I write articles on [https://medium.com/@vishweshbhat18](https://medium.com/@vishweshbhat18)
 
 - 📫 How to reach me **https://www.linkedin.com/in/vishwesh-bhat-554773286/**
 
