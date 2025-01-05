@@ -14,9 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishwesh bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwesh bhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishweshbhat1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwesh bhat" height="30" width="40" /></a>
 <a href="https://instagram.com/vi.sh.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vi.sh.b" height="30" width="40" /></a>
-<a href="https://medium.com/@vishweshbhat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishweshbhat18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
