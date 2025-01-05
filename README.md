@@ -8,11 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishweshbhat&label=Profile%20views&color=0e75b6&style=flat" alt="vishweshbhat" /> </p>
 
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently learning **Cybersecurity**
 
-- 📝 I write articles on [https://medium.com/@vishweshbhat18](https://medium.com/@vishweshbhat18)
-
-- 📫 How to reach me **https://www.linkedin.com/in/vishwesh-bhat-554773286/**
+- 📫 How to reach me **https://www.linkedin.com/in/vishweshbhat1/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
